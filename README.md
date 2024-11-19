@@ -1,8 +1,7 @@
 ## Introduction
-This project is used for QA Infrastructure Workshop : https://www.thetesttribe.com/live-trainings/qa-infra/
+This project is used for QA Infrastructure  :
 
-### This readme is step 2 of whole 7 step guide : https://github.com/Raneesh02/selgrid_kube_aws_oct/wiki/Exercise-0-:-Prerequisite-for-workshop 
-Please visit above link to do it in order
+
 
 ## New to Git ?
 
